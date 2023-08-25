@@ -1,0 +1,25 @@
+html{
+    background-color: burlywood;
+}
+h1{
+    color: crimson;
+    display: inline;
+    border-radius: 50px;
+}
+#Main{
+    text-align: center;
+    border-radius: 25px;
+    padding-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#recipes{
+    text-align: center;
+    color: rgb(6, 63, 44);
+}
+img{
+    align-content: center;
+    width: 300px;
+    height: 169px;
+}
